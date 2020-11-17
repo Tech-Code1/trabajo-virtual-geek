@@ -1,4 +1,4 @@
-/* 'use strict';
+/* 
 
 const miDireccion = "calle 40 # 25 - 20"
 
@@ -8,6 +8,8 @@ const miDireccion = "calle 40s # 17 - 18" */
     at reto-2.js:5 */
 
 /* ***************Solucion*************** */
+
+'use strict';
 
 const miDireccion = "calle 40 # 25 - 20"
 
